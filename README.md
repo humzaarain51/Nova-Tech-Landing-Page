@@ -1,6 +1,6 @@
 NovaTech Landing Page
 
-Live Demo
+Live Demo https://nova-tech-landing-page-ehfr.vercel.app/
 
 Overview
 
@@ -108,4 +108,4 @@ License
 
 This project is available for personal and commercial use.
 
-Live Demo
+Live Demo   https://nova-tech-landing-page-ehfr.vercel.app/
